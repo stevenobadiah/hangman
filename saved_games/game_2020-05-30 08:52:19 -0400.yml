@@ -1,0 +1,28 @@
+---
+:word: testator
+:word_letters:
+- T
+- E
+- S
+- T
+- A
+- T
+- O
+- R
+:word_length: 8
+:incorrect_guesses: []
+:incorrect_count: 0
+:correct_guesses:
+- T
+- E
+- S
+:correct_count: 3
+:guessing_line:
+- T
+- E
+- S
+- T
+- _
+- T
+- _
+- _

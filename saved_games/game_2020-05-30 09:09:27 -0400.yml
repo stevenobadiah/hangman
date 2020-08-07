@@ -1,0 +1,25 @@
+---
+:word: mishap
+:word_letters:
+- M
+- I
+- S
+- H
+- A
+- P
+:word_length: 6
+:incorrect_guesses:
+- D
+- F
+:incorrect_count: 2
+:correct_guesses:
+- A
+- S
+:correct_count: 2
+:guessing_line:
+- _
+- _
+- S
+- _
+- A
+- _

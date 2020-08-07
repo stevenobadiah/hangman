@@ -1,0 +1,21 @@
+---
+:word: maul
+:word_letters:
+- M
+- A
+- U
+- L
+:word_length: 4
+:incorrect_guesses:
+- S
+- D
+- F
+:incorrect_count: 3
+:correct_guesses:
+- A
+:correct_count: 1
+:guessing_line:
+- _
+- A
+- _
+- _

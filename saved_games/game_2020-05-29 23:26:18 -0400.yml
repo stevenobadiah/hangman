@@ -1,0 +1,30 @@
+---
+:word: Liberia
+:word_letters:
+- L
+- I
+- B
+- E
+- R
+- I
+- A
+:word_length: 7
+:incorrect_guesses:
+- S
+- D
+- F
+:incorrect_count: 3
+:correct_guesses:
+- A
+- L
+- I
+- B
+:correct_count: 4
+:guessing_line:
+- L
+- I
+- B
+- _
+- _
+- I
+- A

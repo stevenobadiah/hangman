@@ -1,0 +1,30 @@
+---
+:word: smugness
+:word_letters:
+- S
+- M
+- U
+- G
+- N
+- E
+- S
+- S
+:word_length: 8
+:incorrect_guesses:
+- A
+- D
+- F
+:incorrect_count: 3
+:correct_guesses:
+- S
+- M
+:correct_count: 2
+:guessing_line:
+- S
+- M
+- _
+- _
+- _
+- _
+- S
+- S

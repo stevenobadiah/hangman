@@ -1,0 +1,35 @@
+---
+:word: penitence
+:word_letters:
+- P
+- E
+- N
+- I
+- T
+- E
+- N
+- C
+- E
+:word_length: 9
+:incorrect_guesses:
+- A
+- S
+- D
+- F
+- G
+:incorrect_count: 5
+:correct_guesses:
+- P
+- E
+- N
+:correct_count: 3
+:guessing_line:
+- P
+- E
+- N
+- _
+- _
+- E
+- N
+- _
+- E

@@ -1,0 +1,28 @@
+---
+:word: deflect
+:word_letters:
+- D
+- E
+- F
+- L
+- E
+- C
+- T
+:word_length: 7
+:incorrect_guesses:
+- A
+- S
+:incorrect_count: 2
+:correct_guesses:
+- D
+- F
+- L
+:correct_count: 3
+:guessing_line:
+- D
+- _
+- F
+- L
+- _
+- _
+- _

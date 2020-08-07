@@ -1,0 +1,30 @@
+---
+:word: filtrate
+:word_letters:
+- F
+- I
+- L
+- T
+- R
+- A
+- T
+- E
+:word_length: 8
+:incorrect_guesses:
+- S
+- D
+:incorrect_count: 2
+:correct_guesses:
+- A
+- F
+- I
+:correct_count: 3
+:guessing_line:
+- F
+- I
+- _
+- _
+- _
+- A
+- _
+- _

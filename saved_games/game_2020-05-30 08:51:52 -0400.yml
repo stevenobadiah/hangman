@@ -1,0 +1,25 @@
+---
+:word: elute
+:word_letters:
+- E
+- L
+- U
+- T
+- E
+:word_length: 5
+:incorrect_guesses:
+- A
+- S
+- D
+- F
+- K
+:incorrect_count: 5
+:correct_guesses:
+- E
+:correct_count: 1
+:guessing_line:
+- E
+- _
+- _
+- _
+- E
